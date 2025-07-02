@@ -1,0 +1,35 @@
+body {
+    background-color: #040707 !important;
+}
+
+.titulo {
+    font-size: 61px;
+    line-height: 65px;
+    font-style: italic;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 86px;
+    margin-bottom: 20;
+    text-align: center;
+    color: rgb(91, 201, 69);
+}
+
+.ll {
+    background-color: #0d1616 !important;
+    border-color: transparent !important;
+    text-align: center;
+    height: 20%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.lla {
+    background-color: #0d1616 !important;
+    border-color: transparent !important;
+    text-align: center;
+    height: 20%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: 2%;
+}
